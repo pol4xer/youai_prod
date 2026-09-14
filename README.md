@@ -1,6 +1,6 @@
 # YouAI
 
-[![CI](https://github.com/pol4xer/youai/actions/workflows/ci.yml/badge.svg)](https://github.com/pol4xer/youai/actions/workflows/ci.yml)
+[![CI](https://github.com/pol4xer/youai_prod/actions/workflows/ci.yml/badge.svg)](https://github.com/pol4xer/youai_prod/actions/workflows/ci.yml)
 
 A Python pipeline for turning Reddit stories into short-form video scripts and
 passing them to a replaceable video provider.
